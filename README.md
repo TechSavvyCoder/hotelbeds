@@ -4,7 +4,7 @@ Hotel Booking API which consists the following:
 * Content API
 * Cache API
 
-## MEMBERS:
+## Developer:
 * [Diego Pinlac II](https://diegopinlac.com/)
 
 ## Source
