@@ -141,7 +141,7 @@
                     <?php
                     // API credentials
                     $apiKey = "b0689713818666de7a176166f60d688a";
-$secret = "683bbfe1ef";
+                    $secret = "683bbfe1ef";
 
                     // Construct the API request URL to retrieve available locations
                     $url = "https://api.test.hotelbeds.com/hotel-content-api/1.0/locations";
