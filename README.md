@@ -8,4 +8,4 @@ Hotel Booking API which consists the following:
 * [Diego Pinlac II](https://diegopinlac.com/)
 
 ## Source
-https://developer.hotelbeds.com(https://developer.hotelbeds.com/)
+[https://developer.hotelbeds.com](https://developer.hotelbeds.com/)
